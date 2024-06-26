@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour,je suis Jeviraj Jeyaratanam</h1>
-<h3 align="center">Développeur web Fullstack junior en recherche d'Alternance</h3>
+<h3 align="center">Développeur web Fullstack junior basé en Ile De France en recherche d'Alternance</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
